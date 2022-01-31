@@ -10,3 +10,5 @@ https://meals-shop.surge.sh/
   https://github.com/waqarali-7/next-shop.git
 # 2- Run this command to install dependencies. 
   npm install
+# 3- After installing dependencies run command below.
+  npm start
